@@ -2,7 +2,8 @@
 
 A modern web application that allows users to upload documents and ask natural language questions about their content using RAG (Retrieval Augmented Generation) technology.
 
-![Dashboard](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1200)
+![Uploading Screenshot 2025-05-31 212019.png…]()
+
 
 ## Features
 

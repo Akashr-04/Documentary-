@@ -121,19 +121,6 @@ Sources:
 - Page 3: "System Requirements: 8GB RAM, 100GB storage"
 - Page 4: "OS Support: Windows 10/11, macOS 12+"
 
-## Screenshots
-
-### Dashboard
-![Dashboard](https://images.pexels.com/photos/8566472/pexels-photo-8566472.jpeg?auto=compress&cs=tinysrgb&w=1200)
-The dashboard provides an overview of all uploaded documents with their processing status and metadata.
-
-### Upload Interface
-![Upload](https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&w=1200)
-Drag-and-drop interface for document uploads with progress tracking and validation.
-
-### Q&A Interface
-![QA Interface](https://images.pexels.com/photos/8566474/pexels-photo-8566474.jpeg?auto=compress&cs=tinysrgb&w=1200)
-Interactive interface for asking questions about documents with source citations and relevance scores.
 
 ## Tech Stack
 
